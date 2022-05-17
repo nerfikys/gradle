@@ -1,0 +1,8 @@
+# Folder ignore
+.idea
+build
+.allure
+.gradle
+
+# File ignore
+*.iml
